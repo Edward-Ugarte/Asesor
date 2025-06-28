@@ -51,7 +51,7 @@ Ideal para investigadores, estudiantes de posgrado, consultoras, instituciones a
 
 ## 💬 ¿Cómo trabajar juntos?
 
-Puedes abrir un [issue](https://github.com/usuario/repositorio/issues) o enviarme un mensaje con:
+  enviarme un mensaje con:
 
 - Área del proyecto (ej. valoración financiera, planificación estratégica, etc.)  
 - Breve descripción del contexto o pregunta  
