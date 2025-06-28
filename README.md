@@ -51,7 +51,7 @@ Ideal para investigadores, estudiantes de posgrado, consultoras, instituciones a
 
 ## 💬 ¿Cómo trabajar juntos?
 
-  enviarme un mensaje con:
+  enviame un mensaje con:
 
 - Área del proyecto (ej. valoración financiera, planificación estratégica, etc.)  
 - Breve descripción del contexto o pregunta  
