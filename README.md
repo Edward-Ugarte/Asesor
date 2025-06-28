@@ -42,7 +42,7 @@ Ideal para investigadores, estudiantes de posgrado, consultoras, instituciones a
 
 ## 🚀 Qué obtienes
 
-✔️ Scripts reproducibles en **Gretl** o **R** con documentación detallada  
+✔️ Scripts reproducibles en **Gretl** o **R**  etc con documentación detallada  
 ✔️ Visualizaciones claras y ajustadas a públicos técnicos y no técnicos  
 ✔️ Acompañamiento conceptual y técnico, enfocado en comprensión profunda  
 ✔️ Plantillas listas para publicación o entrega institucional
